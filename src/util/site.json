@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Ya-Fu",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by <a href=\"sitelabanalytics.com\">Sitelab Analytics</a>",
+    "siteUrl": "https://suspicious-leakey-2722c6.netlify.app/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }

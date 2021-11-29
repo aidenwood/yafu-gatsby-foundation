@@ -1,9 +1,9 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
+title: New song "x" by Ya-Fu, out this week!
+slug: /x-out-soon
 date: 2020-05-13 12:46
-description: sdasd
+description: Pre-order link and tour information inside.
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
 
